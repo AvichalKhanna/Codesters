@@ -12,7 +12,7 @@ Or you can go to settings/pages/ and Visit Site
 
 Or you can replicate the Repositry and then use npm run dev 
 
-
+<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/56c9790a-b261-4076-8fc4-a2849ca8d514" />
 
 # Made with React + Vite
 

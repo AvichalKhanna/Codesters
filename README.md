@@ -1,4 +1,20 @@
-# React + Vite
+<img width="1360" height="690" alt="image" src="https://github.com/user-attachments/assets/5bde621b-c82f-4791-8fc6-d25a2b3089c9" /># My Space Messenger 
+
+This is a Messenger based on MSN Messenger, We have upgraded the UI and UX alongwith the main theme to match a more advanced and Fturistic space themed COSMIC UI.
+
+Created by Team - Codesters
+
+## How to Deploy 
+
+You can either visit - https://avichalkhanna.github.io/Codesters/
+
+Or you can go to settings/pages/ and Visit Site
+
+Or you can replicate the Repositry and then use npm run dev 
+
+
+
+# Made with React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
